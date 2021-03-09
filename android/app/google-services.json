@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521480956968",
+    "project_id": "ml-text-recognition-leo",
+    "storage_bucket": "ml-text-recognition-leo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521480956968:android:f74c1b9fcd9ae0f11f591d",
+        "android_client_info": {
+          "package_name": "br.com.leonardosilva.simpaul.flutter_ml_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521480956968-7lh04iiue1qcprg9ma71sd1qq6gammgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVa3zJeAWi5mwI44bFRvHDwnP70amtRXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521480956968-7lh04iiue1qcprg9ma71sd1qq6gammgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
